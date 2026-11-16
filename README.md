@@ -14,4 +14,8 @@
 
 打开 [SKILL.md](.agents/skills/cet6-reading-tutor/SKILL.md)。有 Skills 功能时，可以用 Skills 编辑器创建该技能。也可以把文件正文复制到新对话，再提供你手头的真题。
 
-[试做一篇原创练习](examples/reading-practice.md)。本仓库的示例用于体验对话讲解。练真题时，请在自己的对话中添加题目及参考答案（如有）。
+## 练习材料
+
+- [按考期找真题](.agents/skills/cet6-reading-tutor/references/reading-explanations.md#真题做题入口与解析来源)。先从做题入口进入 Section C，交卷后再看逐题解析。你也可以上传手头的题目和参考答案。
+- [试做一篇原创练习](examples/reading-practice.md)。短文配两道四选一题，适合快速体验陪练流程。
+- [查看讲题参考](.agents/skills/cet6-reading-tutor/references/reading-explanations.md)。里面有根据历年真题解析提炼的追问方法和原创对话示范。
