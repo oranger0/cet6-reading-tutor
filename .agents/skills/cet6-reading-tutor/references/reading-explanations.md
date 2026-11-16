@@ -59,4 +59,21 @@
 - 2024 年 12 月：第 1 套，[做题入口](https://www.guojiya.cn/exam/cet6_2024_12_1)、[第一篇解析](https://www.yingyuzhenti.com/cet-6/papers/136/reading-1)、[第二篇解析](https://www.yingyuzhenti.com/cet-6/papers/136/reading-2)。
 - 2023 年 12 月：[第 2 套第一篇解析](https://www.yingyuzhenti.com/cet-6/papers/131/reading-1)、[第 3 套第一篇解析](https://www.yingyuzhenti.com/cet-6/papers/132/reading-1)。
 
+### 2022 年六级仔细阅读
+
+先打开做题入口，从 Part III 的 Section C 做一篇（第 46–50 题或第 51–55 题）。交卷后再查看对应栏的解析或参考答案。
+
+| 考期 | 套次 | 做题入口 | 交卷后复盘 |
+| --- | --- | --- | --- |
+| 12 月 | 第 1 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_12_1) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/124/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/124/reading-2) |
+| 12 月 | 第 2 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_12_2) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/125/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/125/reading-2) |
+| 12 月 | 第 3 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_12_3) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/126/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/126/reading-2) |
+| 9 月 | 第 1 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_09_1) | [第 46–55 题原文与参考答案](https://www.guojiya.cn/exam/cet6_2022_09_1/answers) |
+| 9 月 | 第 2、3 套 | [第 2 套整卷](https://english-exam.lazynote.cn/cet6/paper/2022-09-2/) · [第 3 套整卷](https://english-exam.lazynote.cn/cet6/paper/2022-09-3/) | 该来源将这两套的 Section C 指向同月第 1 套。按学习者手上的题干与选项核对后，可使用上一行的参考答案。 |
+| 6 月 | 第 1 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_06_1) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/121/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/121/reading-2) |
+| 6 月 | 第 2 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_06_2) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/122/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/122/reading-2) |
+| 6 月 | 第 3 套 | [在线做题](https://www.guojiya.cn/exam/cet6_2022_06_3) | [第 46–50 题解析](https://www.yingyuzhenti.com/cet-6/papers/123/reading-1) · [第 51–55 题解析](https://www.yingyuzhenti.com/cet-6/papers/123/reading-2) |
+
+**讲题线索**　9 月第一套第二篇谈国际旅游。学习者如果把「旅游带来的总体经济收益」和「本地居民实际获得的收益」当成一回事，先问「你定位的这句说的是哪一方受益？」等学习者回答后，再引导他核对文章中关于游客消费流向的段落。此类题可以迁移到其他涉及不同受益方的文章。
+
 提炼依据包括 2026 年 6 月第 1 套第一篇的数量与比较、2025 年 12 月第 1 套第一篇的假设与态度、2025 年 6 月第 1 套第一篇的观点归属与参考答案差异、2024 年 12 月第 1 套两篇的例证和因果、2023 年 12 月第 2、3 套第一篇的对象和词义。表格中的追问和对话出自本仓库。
